@@ -1,8 +1,4 @@
-# socialveo-issues-tracking 
-
 ![Socialveo Issues Tracking](https://socialveo.com/assets/logo/bg_blue.png)
-
-# Socialveo Release
 
 # Installation script
 
