@@ -1,4 +1,4 @@
-![Socialveo Issues Tracking](https://socialveo.com/assets/logo/bg_blue.png)
+![Socialveo Issues Tracking](https://socialveo.com/wp-content/themes/socialveo/images/logo/socialveo-normal.png)
 
 # Installation script
 
